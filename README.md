@@ -1,7 +1,9 @@
 # Hi! Seems like you spotted me on GitHub👋
 
 
-<img align="left" width="180" height="264" src="./WechatIMG87.jpeg">
+<img align="left" width="150" height="220" src="./WechatIMG87.jpeg">
+
+
 
 :octocat: I am a geeky girl passionate about **emerging technologies**, **code** and **experience design**. I am looking for full-time opportunities the States.
 
@@ -10,7 +12,7 @@
 
 Reach out to me via my gmail if you have a cool idea and wants a collaborator.
 
-Let's hack/create together!
+## Let's hack/create together!
 
 
 
