@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-## I am a geeky girl passionate about emerging technologies, code and experience design. I am looking for full-time opportunities the States.
-## Reach out to me via my gmail if you have a cool idea and wants a collaborator.
-## Let's hack/create together!
+:octocat: I am a geeky girl passionate about **emerging technologies**, **code** and **experience design**. I am looking for full-time opportunities the States.
+
+ 
+<img align="right" width="400" height="100" src="http://www.fillmurray.com/100/100">[Cool stuff I‘ve done](https://www.shaoying.space)
+
+Reach out to me via my gmail if you have a cool idea and wants a collaborator.
+
+Let's hack/create together!
+![GitHub Logo](/images/logo.png)
 
 
 <!--
