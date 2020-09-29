@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi! Seems like you spotted me on GitHub👋
 
 <img align="left" width="180" height="264" src="./WechatIMG87.jpeg">
 
