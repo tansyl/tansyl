@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a geeky girl passionate about emerging technologies, code and experience design. I am looking for full-time opportunities the States.
-Reach out to me via my gmail if you have a cool idea and wants a collaborator.
-Let's hack/create together!
+#I am a geeky girl passionate about emerging technologies, code and experience design. I am looking for full-time opportunities the States.
+#Reach out to me via my gmail if you have a cool idea and wants a collaborator.
+#Let's hack/create together!
 
 
 <!--
