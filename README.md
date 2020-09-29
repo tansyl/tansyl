@@ -1,8 +1,8 @@
 # Hi! Seems like you spotted me on GitHub👋
 
 
-<img align="left" width="120" height="176" src="./WechatIMG87.jpeg">
-
+<img align="left" width="150" height="220" src="./WechatIMG87.jpeg">
+ <br />
 
 
 :octocat: I am a geeky girl passionate about **emerging technologies**, **code** and **experience design**. I am looking for full-time opportunities the States.
