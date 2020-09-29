@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-:octocat: I am a geeky girl passionate about **emerging technologies**, **code** and **experience design**. I am looking for full-time opportunities the States.
+<img align="right" width="270" height="405" src="./WechatIMG87.jpeg">:octocat: I am a geeky girl passionate about **emerging technologies**, **code** and **experience design**. I am looking for full-time opportunities the States.
 
  
-<img align="right" width="540" height="810" src="./WechatIMG87.jpeg">[Cool stuff I‘ve done](https://www.shaoying.space)
+[Cool stuff I‘ve done](https://www.shaoying.space)
 
 Reach out to me via my gmail if you have a cool idea and wants a collaborator.
 
